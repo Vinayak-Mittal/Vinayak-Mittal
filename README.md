@@ -27,7 +27,7 @@ I'm a passionate machine learning and web development enthusiast currently pursu
 ## Contact
 
 📧 Email: vinayakmittal2003@gmail.com
-🌐 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/vinayak1211)
+🌐 LinkedIn:(www.linkedin.com/in/vinayak1211)
 
 
 Feel free to reach out if you'd like to collaborate on a project, have any questions, or just want to connect!
