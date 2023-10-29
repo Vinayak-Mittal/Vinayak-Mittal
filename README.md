@@ -1,16 +1,35 @@
-### Hi there 👋
+# Machine Learner | Web Developer | BTech Student
 
-<!--
-**Vinayak-Mittal/Vinayak-Mittal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 BTech in Information Technology | 3rd year 
+💻 Ex- Intern @ INMAS , DRDO (Ministry of Defense)
+📚 Machine Learning Enthusiast
+🌐 Passionate about AI, Data Science, and Computer Vision
 
-Here are some ideas to get you started:
+## About Me
+I'm a passionate machine learning and web development enthusiast currently pursuing my BTech degree in Information Technology at JECRC College. I love experimenting with data, building web applications and also worked for Ministry of defence (DRDO). Feel free to connect and collaborate!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+🤖 Machine Learning
+🌐 Web Development
+💻 Python, JavaScript, HTML, CSS
+📈 Data Analysis
+🧩 Data Structures & Algorithms
+🖥️ Responsive Design
+⚙️ Git & Version Control
+
+## Projects
+
+### Project 1:AyurTech 
+- Description: Developed a machine learning model  to suggest the ayurvedic drug according to the disease.
+- Repository: [Project 1 Repository](https://github.com/Vinayak-Mittal/AyurTech)
+
+## Contact
+
+📧 Email: vinayakmittal2003@gmail.com
+🌐 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/vinayak1211)
+
+
+Feel free to reach out if you'd like to collaborate on a project, have any questions, or just want to connect!
+
+
