@@ -1,4 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)](https://vinayakmittal.io)
+
 # Machine Learner | Web Developer | BTech Student
 
 - 👨‍🎓 BTech in Information Technology | 3rd year 
