@@ -1,4 +1,4 @@
-[![MasterHead](/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png
+[![MasterHead](tumblr_13d2c753eed929097cc13bbb1d3e482c_1509237a_2048.gif
 )](https://vinayakmittal.io)
 
 <h1 align="center">Hello 👋, I'm Vinayak Mittal</h1>
