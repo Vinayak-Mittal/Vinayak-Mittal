@@ -1,5 +1,10 @@
-[![MasterHead](tumblr_13d2c753eed929097cc13bbb1d3e482c_1509237a_2048.gif
-)](https://vinayakmittal.io)
+<p align="center">
+  <a href="https://vinayakmittal.io">
+    <img src="0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" alt="MasterHead" width="70%">
+  </a>
+</p>
+
+
 
 <h1 align="center">Hello 👋, I'm Vinayak Mittal</h1>
 
