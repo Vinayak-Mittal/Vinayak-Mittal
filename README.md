@@ -36,6 +36,11 @@ I'm a passionate machine learning and web development enthusiast currently pursu
 - Description: Developed a machine learning model  to suggest the ayurvedic drug according to the disease.
 - Repository: [Project 1 Repository](https://github.com/Vinayak-Mittal/AyurTech)
 
+### Project 2: Farmy
+- Description: A basic frontend website for farmers Created in Smart City Hackathon.
+- Repository: [Project 1 Repository](https://github.com/Vinayak-Mittal/Farmy_website)
+
+
 ## Contact
 
 - 📧 Email: vinayakmittal2003@gmail.com
