@@ -40,6 +40,10 @@ I'm a passionate machine learning and web development enthusiast currently pursu
 - Description: A basic frontend website for farmers Created in Smart City Hackathon.
 - Repository: [Project 1 Repository](https://github.com/Vinayak-Mittal/Farmy_website)
 
+### Project 3: WattWatch
+- Description: Estimating the return on investment (ROI) or cost of installed solar panels in a house using machine learning involves predicting the savings or revenue generated from the solar panels over time compared to the initial installation costs.
+- Repository: [Project 1 Repository]((https://github.com/Vinayak-Mittal/WattWatch))
+
 
 ## Contact
 
