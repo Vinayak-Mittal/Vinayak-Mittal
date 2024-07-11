@@ -51,6 +51,6 @@ I'm a passionate machine learning and web development enthusiast currently pursu
 - 🌐 LinkedIn:(www.linkedin.com/in/vinayak1211)
 
 
-Feel free to reach out if you'd like to collaborate on a project, have any questions, or just want to connect!
+
 
 
