@@ -44,7 +44,6 @@ I'm a passionate machine learning and web development enthusiast currently pursu
 - Description: Estimating the return on investment (ROI) or cost of installed solar panels in a house using machine learning involves predicting the savings or revenue generated from the solar panels over time compared to the initial installation costs.
 - Repository: [Project 1 Repository](https://github.com/Vinayak-Mittal/WattWatch)
 
-
 ## Contact
 
 - 📧 Email: vinayakmittal2003@gmail.com
