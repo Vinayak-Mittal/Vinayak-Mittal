@@ -38,11 +38,15 @@ I'm a passionate machine learning and web development enthusiast currently pursu
 
 ### Project 2: Farmy
 - Description: A basic frontend website for farmers Created in Smart City Hackathon.
-- Repository: [Project 1 Repository](https://github.com/Vinayak-Mittal/Farmy_website)
+- Repository: [Project 2 Repository](https://github.com/Vinayak-Mittal/Farmy_website)
 
 ### Project 3: WattWatch
 - Description: Estimating the return on investment (ROI) or cost of installed solar panels in a house using machine learning involves predicting the savings or revenue generated from the solar panels over time compared to the initial installation costs.
-- Repository: [Project 1 Repository](https://github.com/Vinayak-Mittal/WattWatch)
+- Repository: [Project 3 Repository](https://github.com/Vinayak-Mittal/WattWatch)
+
+  ### Project 4: Python-Projects
+- Description: Welcome to the Python Projects repository! This repository contains various Python projects demonstrating different aspects of Python programming. Each project is self-contained and showcases unique features and functionalities.
+- Repository: [Project 4 Repository](https://github.com/Vinayak-Mittal/Python-Project)
 
 ## Contact
 
