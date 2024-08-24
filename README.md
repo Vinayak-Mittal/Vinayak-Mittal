@@ -10,7 +10,6 @@
   <b>Machine Learning Aficionado | Web Developer Extraordinaire | BTech in Information Technology</b>
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -18,7 +17,6 @@ I'm a passionate Machine Learning and Web Development enthusiast, currently in m
 
 During my internship at INMAS, DRDO (Ministry of Defense), I worked on innovative projects that strengthened my technical skills and broadened my problem-solving abilities. My education and experience have equipped me with a strong skill set, making me a versatile engineer ready to take on new challenges.
 
----
 
 <img align="right" src="pic.avif" height="311" width="390">
 
@@ -32,14 +30,12 @@ During my internship at INMAS, DRDO (Ministry of Defense), I worked on innovativ
 - 🖥️ **Responsive Design**: Adept at crafting user-friendly interfaces that provide seamless user experiences across devices.
 - ⚙️ **Git & Version Control**: Well-versed in collaborative development using Git, ensuring smooth project management and code integrity.
 
----
 
 ## 🏆 Achievements
 
 - **Safetify (Patent)**: Pioneered a patent (Ref.No: IGEN-1029) for an innovative women’s safety bracelet designed to empower and enhance the personal security of women.
 - **Metaverse (Review Paper)**: Published a review paper at the 4th National Conference on Information & Security Applications as the First Author.
 
----
 
 ## 🌟 Extracurricular Activities
 
@@ -48,7 +44,6 @@ During my internship at INMAS, DRDO (Ministry of Defense), I worked on innovativ
 - **Creative Lead** as a Core Team Member at Google Developer Student Club, JECRC.
 - **Volunteer** at FruitFul Jaipur (Social Club).
 
----
 
 ## 🔥 Featured Projects
 
@@ -68,7 +63,6 @@ During my internship at INMAS, DRDO (Ministry of Defense), I worked on innovativ
 - **Role**: Developer
 - **Description**: A collection of diverse Python projects, each demonstrating different facets of programming and problem-solving skills.
 
----
 
 ## 📫 Let’s Connect!
 
@@ -78,5 +72,4 @@ I'm always eager to discuss new opportunities, collaborate on exciting projects,
 - **🌐 LinkedIn**: [Vinayak Mittal](https://www.linkedin.com/in/vinayak1211)
 
 ---
-
 Let's create something extraordinary together!
