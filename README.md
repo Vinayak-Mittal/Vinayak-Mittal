@@ -14,9 +14,9 @@
 
 ## 🚀 About Me
 
-I'm a forward-thinking Machine Learning and Web Development enthusiast, currently in my final year of BTech in Information Technology at JECRC College. My journey has been marked by a relentless passion for AI, Data Science, and Computer Vision, coupled with hands-on experience in developing innovative solutions.
+I'm a passionate Machine Learning and Web Development enthusiast, currently in my final year of BTech in Information Technology at JECRC College. I'm deeply interested in AI, Data Science, and Computer Vision, with hands-on experience in developing practical solutions.
 
-Having interned at **INMAS, DRDO (Ministry of Defense)**, I’ve had the privilege of working on cutting-edge projects that have refined my technical skills and broadened my perspective on solving real-world problems with technology. My academic journey, paired with my professional experience, has equipped me with a robust skill set, making me a versatile engineer ready to tackle complex challenges.
+During my internship at INMAS, DRDO (Ministry of Defense), I worked on innovative projects that strengthened my technical skills and broadened my problem-solving abilities. My education and experience have equipped me with a strong skill set, making me a versatile engineer ready to take on new challenges.
 
 ---
 
