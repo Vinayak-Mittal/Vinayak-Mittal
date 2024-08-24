@@ -34,6 +34,22 @@ Having interned at **INMAS, DRDO (Ministry of Defense)**, I’ve had the privile
 
 ---
 
+## 🏆 Achievements
+
+- **Safetify (Patent)**: Pioneered a patent (Ref.No: IGEN-1029) for an innovative women’s safety bracelet designed to empower and enhance the personal security of women.
+- **Metaverse (Review Paper)**: Published a review paper at the 4th National Conference on Information & Security Applications as the First Author.
+
+---
+
+## 🌟 Extracurricular Activities
+
+- **Head of Event Management** at Smart India Hackathon prelims round, JECRC.
+- **Event Strategist**: Orchestrated strategic event planning for Google Developer Student Club WOW in Jaipur.
+- **Creative Lead** as a Core Team Member at Google Developer Student Club, JECRC.
+- **Volunteer** at FruitFul Jaipur (Social Club).
+
+---
+
 ## 🔥 Featured Projects
 
 ### [AyurTech](https://github.com/Vinayak-Mittal/AyurTech)
