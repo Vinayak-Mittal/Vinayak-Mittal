@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://vinayakmittal.io">
-    <img src="banner.gif" alt="MasterHead" width="70%">
+    <img src="212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="MasterHead" width="70%">
   </a>
 </p>
 
