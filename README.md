@@ -18,8 +18,6 @@ I'm a passionate Machine Learning and Web Development enthusiast, currently in m
 During my internship at INMAS, DRDO (Ministry of Defense), I worked on innovative projects that strengthened my technical skills and broadened my problem-solving abilities. My education and experience have equipped me with a strong skill set, making me a versatile engineer ready to take on new challenges.
 
 
-<img align="right" src="pic.avif" height="311" width="390">
-
 ## 💡 My Skillset
 
 - 🤖 **Machine Learning**: Proficient in building and deploying models, with a knack for optimizing algorithms for accuracy and efficiency.
@@ -29,20 +27,6 @@ During my internship at INMAS, DRDO (Ministry of Defense), I worked on innovativ
 - 🧩 **Data Structures & Algorithms**: In-depth knowledge of DSA, ensuring efficient problem-solving capabilities.
 - 🖥️ **Responsive Design**: Adept at crafting user-friendly interfaces that provide seamless user experiences across devices.
 - ⚙️ **Git & Version Control**: Well-versed in collaborative development using Git, ensuring smooth project management and code integrity.
-
-
-## 🏆 Achievements
-
-- **Safetify (Patent)**: Pioneered a patent (Ref.No: IGEN-1029) for an innovative women’s safety bracelet designed to empower and enhance the personal security of women.
-- **Metaverse (Review Paper)**: Published a review paper at the 4th National Conference on Information & Security Applications as the First Author.
-
-
-## 🌟 Extracurricular Activities
-
-- **Head of Event Management** at Smart India Hackathon prelims round, JECRC.
-- **Event Strategist**: Orchestrated strategic event planning for Google Developer Student Club WOW in Jaipur.
-- **Creative Lead** as a Core Team Member at Google Developer Student Club, JECRC.
-- **Volunteer** at FruitFul Jaipur (Social Club).
 
 
 ## 🔥 Featured Projects
@@ -64,6 +48,22 @@ During my internship at INMAS, DRDO (Ministry of Defense), I worked on innovativ
 - **Description**: A collection of diverse Python projects, each demonstrating different facets of programming and problem-solving skills.
 
 
+
+## 🏆 Achievements
+
+- **Safetify (Patent)**: Pioneered a patent (Ref.No: IGEN-1029) for an innovative women’s safety bracelet designed to empower and enhance the personal security of women.
+- **Metaverse (Review Paper)**: Published a review paper at the 4th National Conference on Information & Security Applications as the First Author.
+
+
+## 🌟 Extracurricular Activities
+
+- **Head of Event Management** at Smart India Hackathon prelims round, JECRC.
+- **Event Strategist**: Orchestrated strategic event planning for Google Developer Student Club WOW in Jaipur.
+- **Creative Lead** as a Core Team Member at Google Developer Student Club, JECRC.
+- **Volunteer** at FruitFul Jaipur (Social Club).
+
+
+
 ## 📫 Let’s Connect!
 
 I'm always eager to discuss new opportunities, collaborate on exciting projects, or simply connect with like-minded professionals. If my experience and skills align with your needs, or if you're interested in exploring potential collaborations, feel free to reach out.
@@ -72,4 +72,5 @@ I'm always eager to discuss new opportunities, collaborate on exciting projects,
 - **🌐 LinkedIn**: [Vinayak Mittal](https://www.linkedin.com/in/vinayak1211)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=vinayakmittal&color=brightgreen)
 Let's create something extraordinary together!
