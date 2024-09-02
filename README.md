@@ -20,13 +20,13 @@ During my internship at INMAS, DRDO (Ministry of Defense), I worked on innovativ
 
 ## 💡 My Skillset
 
-- 🤖 **Machine Learning**: Proficient in building and deploying models, with a knack for optimizing algorithms for accuracy and efficiency.
-- 🌐 **Web Development**: Expertise in creating responsive and dynamic web applications using modern frameworks and tools.
-- 💻 **Programming Languages**: Advanced skills in Python, JavaScript, HTML, CSS, with a deep understanding of coding best practices.
-- 📈 **Data Analysis**: Strong analytical skills to interpret and visualize data, enabling data-driven decision-making.
-- 🧩 **Data Structures & Algorithms**: In-depth knowledge of DSA, ensuring efficient problem-solving capabilities.
-- 🖥️ **Responsive Design**: Adept at crafting user-friendly interfaces that provide seamless user experiences across devices.
-- ⚙️ **Git & Version Control**: Well-versed in collaborative development using Git, ensuring smooth project management and code integrity.
+- 🤖 **Machine Learning**
+- 🌐 **Web Development**
+- 💻 **Programming Languages**
+- 📈 **Data Analysis**
+- 🧩 **Data Structures & Algorithms**
+- 🖥️ **Responsive Design**
+- ⚙️ **Git & Version Control**
 
 
 ## 🔥 Featured Projects
